@@ -1,4 +1,8 @@
 <?php
 phpinfo();
 echo "ft";
-dfsf
+echo "dfsf";
+
+function te() {
+	
+}
