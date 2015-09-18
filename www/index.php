@@ -4,5 +4,5 @@ echo "ft";
 echo "dfsf";
 
 function te() {
-	
+	return false;
 }
