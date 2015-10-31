@@ -4,14 +4,40 @@ class NewsController
 {
     public function actionAll()
     {
-        $items = News::getAll();
-        include __DIR__ . '/../views/news/all.php';     
+        $news = NewsModel::findAll();
+        $view = new View();
+        $view->items = $news;
+        $view->display('news/all.php');
     }
-    
+
     public function actionOne()
     {
         $id = $_GET['id'];
-        $item = News::getOne($id);
-        include __DIR__ . '/../views/news/one.php';
+        $new = NewsModel::findOneByPk($id);
+        $view = new View();
+        $view->item = $new;
+        $view->display('news/one.php');
+    }
+
+    public function actionSpisok()
+    {
+        $news = NewsModel::findAll();
+        $view = new View();
+        $view->items = $news;
+        $view->display('news/spisok.php');
+    }
+
+    public function actionOneCol()
+    {
+        if($_POST){
+            if(!empty($_POST['title'])) {
+                $article = NewsModel::findOneByColumn('title', $_POST['title']);
+            } else {
+                $_SESSION['error'] = 'Вы ничего не ввели';
+            }
+        }
+            $view = new View();
+            $view->items = $article;
+            $view->display('news/onecol.php');
     }
 }
