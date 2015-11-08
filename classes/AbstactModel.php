@@ -1,5 +1,5 @@
 <?php
-    
+
 abstract class AbstactModel
 {
     static  protected  $table;
@@ -47,9 +47,6 @@ abstract class AbstactModel
         $db->setClassName(get_called_class());
         $sql = 'SELECT * FROM ' . static::$table . ' WHERE ' .$column . '=:value';
         $res = $db->query($sql, [':value' => $value]);
-        if(empty($res)) {
-            throw new ModelExeption('Ничего не найдено');
-        }
         return $res;
     }
 

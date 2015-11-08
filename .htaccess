@@ -1,6 +1,6 @@
 AddDefaultCharset UTF-8
 
 RewriteEngine On
+RewriteBase /
 
-RewriteRule ^([a-zA-Z]+)\/([a-zA-Z]+)$ index.php?ctrl=$1&act=$2
-RewriteRule ^([a-zA-Z]+)\/([a-zA-Z]+)\/(\d+)$ index.php?ctrl=$1&act=$2&id=$3
+RewriteRule ^(.*)$ index.php

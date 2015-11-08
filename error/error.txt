@@ -1,0 +1,27 @@
+17:30:37 2015-11-02, Ничего не найдено в базe, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+17:31:26 2015-11-02, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+17:39:14 2015-11-02, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+18:08:19 2015-11-02, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+18:11:05 2015-11-02, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+20:54:57 2015-11-04, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+20:55:05 2015-11-04, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\NewsController.php
+16:04:59 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:05:09 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:06:49 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:21:46 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:21:59 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:33:08 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+16:34:02 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:02:14 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:04:38 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:11:38 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:11:49 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:12:16 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:12:29 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:13:48 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:14:01 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:14:34 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:14:51 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:16:31 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:17:35 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
+17:17:42 2015-11-05, Новость с таким id не найдена, 404, D:\OpenServer\domains\test.local\controllers\News.php
